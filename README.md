@@ -1,7 +1,7 @@
-# HOLA MUNDO!! 👋
-## APRENDIENDO TODOS LOS DÍAS!!!
+**# HOLA MUNDO!!** 👋
+**## APRENDIENDO TODOS LOS DÍAS!!!**
 
-[Mi curriculum](https://zinckmurcia.github.io/CVDIEGOALFONSORODRIGUEZAGUILERA.pdf)
+**[Mi curriculum](https://zinckmurcia.github.io/CVDIEGOALFONSORODRIGUEZAGUILERA.pdf)**
 
 <!--
 **zinckmurcia/zinckmurcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
