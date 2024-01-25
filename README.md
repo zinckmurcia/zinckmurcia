@@ -1,4 +1,6 @@
-**# HOLA MUNDO!!** 👋
+**# HOLA MUNDO!!** 
+
+
 **## APRENDIENDO TODOS LOS DÍAS!!!**
 
 **[Mi curriculum](https://zinckmurcia.github.io/CVDIEGOALFONSORODRIGUEZAGUILERA.pdf)**
